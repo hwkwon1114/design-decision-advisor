@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "design-decision-advisor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Empirical decision-making skill for computational design research — compares representations, optimizers, and objectives through automated experiments.",
   "owner": {
     "name": "hwkwon1114",
@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "design-decision-advisor",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Empirical decision-making assistant for computational design research. Compares design representations, optimization algorithms, and objectives through automated experiments with statistical analysis and visualizations. Uses JAX, PyTorch, BoTorch, NumPy, SciPy.",
       "category": "development",
       "source": "./plugins/design-decision-advisor"

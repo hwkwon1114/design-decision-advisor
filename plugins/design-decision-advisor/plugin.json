@@ -1,7 +1,7 @@
 {
   "name": "design-decision-advisor",
   "description": "Empirical decision-making assistant for computational design research. Helps compare design representations, optimization algorithms, and objectives through automated experiments with statistical analysis and visualizations.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "pxl1051"
   },
