@@ -5,6 +5,5 @@
   "author": {
     "name": "pxl1051"
   },
-  "keywords": ["bayesian-optimization", "design-research", "botorch", "experimental-comparison", "spatial-temporal"],
-  "skills": ["SKILL.md"]
+  "keywords": ["bayesian-optimization", "design-research", "botorch", "experimental-comparison", "spatial-temporal"]
 }
